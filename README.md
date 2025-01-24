@@ -34,7 +34,5 @@ while students can securely access their grades and performance details.
    - `rs2xml.jar`
 4. **Java Development Kit (JDK 21)**: Ensure JDK 21 is installed and configured.
 
-### Steps to Set Up
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
+![Package Overview](ScreenShots/package_hierarchy_overview.png)
+
